@@ -5,3 +5,4 @@ Run:
 Download EXECUTE folder and run the .exe files   
 Or  
 Build the exe with the file and the cmake file given  
+(Make sure to have the SDL2 library in your MINGW compiler)  
